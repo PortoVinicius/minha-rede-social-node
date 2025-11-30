@@ -54,4 +54,6 @@ docker-compose up --build
 ```bash
 docker-compose down
 ```
-# minha-rede-social-node
+## minha-rede-social-node
+
+No navegador tenha acesso a rede-socila em:  http:localhost:3000
